@@ -1,0 +1,53 @@
+@media (min-width: 300px) and (max-width: 500px){
+    .bg {
+        padding: 0px;
+    }
+    .bg-corporate {
+        padding: 0px;
+    }
+    .bg-individual{
+        padding: 0px;
+
+    }
+    .mobile_navbar{
+        display: none !important;
+    }
+    .mobile-carousel{
+        display: flex;
+        flex-wrap: nowrap;
+        overflow: scroll;
+
+    }
+    .mobile_footer{
+        flex-direction: column;
+        justify-content: flex-start;
+
+    }
+    .our_vision, .our_mision{
+        padding: 25px;
+    }
+    .tree-company{
+        padding: 25px;
+    }
+
+}
+
+@media (min-width: 763px) and (max-width: 991px) {
+    .mobile_navbar{
+        display: none !important;
+    }
+    .mobile_footer{
+        flex-direction: column;
+        justify-content: flex-start;
+
+    }
+
+}
+
+
+
+
+@media (min-width: 992px) and (max-width: 1920px) {
+   
+
+}

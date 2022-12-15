@@ -1,0 +1,44 @@
+.w-40{
+    width: 40% !important;
+}
+
+/* Text colors  */
+
+
+.text_pri{
+    color:  #2C6944 !important;
+    
+}
+.text_sec{
+    color: #DA7745;
+
+}
+.text_ter{
+    color: #000000;
+    
+}
+.text_footer{
+   background-color: #2D2D2D;
+}
+/* fonts */
+.fs-20{
+    font-size: 20px !important;
+    
+}
+.fs-24{
+    font-size: 24px !important;
+}
+.fs-30{
+    font-size: 30px !important;
+}
+.fs-50{
+    font-size: 50px !important;
+}
+/* margin */
+.mlmt {
+    margin-left: 35px !important;
+    margin-top: -21px !important;
+    }
+.ml-15{
+    margin-left: 15px !important;
+}
